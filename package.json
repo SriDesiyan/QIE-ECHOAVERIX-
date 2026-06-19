@@ -1,0 +1,15 @@
+{
+  "name": "qie-echoaverix-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace=apps/echo-web",
+    "build:web": "npm run build --workspace=apps/echo-web",
+    "compile:contracts": "npm run compile --workspace=apps/echo-contracts",
+    "test:contracts": "npm run test --workspace=apps/echo-contracts"
+  }
+}
