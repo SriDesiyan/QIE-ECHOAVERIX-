@@ -2,6 +2,11 @@
 
 > **Tagline**: *"Create, Own, Verify, and Monetize Trusted AI Expertise on QIE."*
 
+Demo Video Link:
+
+[![Watch the video](https://img.youtube.com/vi/ZPk8wURAilQ/maxresdefault.jpg)](https://youtu.be/ZPk8wURAilQ)
+
+
 ---
 
 ## 1. Executive Product Overview
