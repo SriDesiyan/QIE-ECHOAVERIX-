@@ -2,6 +2,11 @@
 
 > **Tagline**: *"Create, Own, Verify, and Monetize Trusted AI Expertise on QIE."*
 
+##  Demo Website
+
+[Click here to view the live demo](https://qie-echoaverix-echo-web-csp7.vercel.app/)
+
+
 Demo Video Link:
 
 [![Watch the video](https://img.youtube.com/vi/ZPk8wURAilQ/maxresdefault.jpg)](https://youtu.be/ZPk8wURAilQ)
